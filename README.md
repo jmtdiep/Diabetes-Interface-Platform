@@ -10,3 +10,7 @@ Ideas:
 -Message pop-up with suggestions depending on BSL levels
 -Possible fasting time frames (testing WIP)
 -Option to input in fitness workout for the relevant day
+
+
+-Keep it simple and clean
+-Add ons will be done later stage
