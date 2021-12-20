@@ -15,3 +15,5 @@ Ideas:
 -Keep it simple and clean
 -Add ons will be done later stage
 -Restrict access with login
+
+-Idea to build a road map to keep track of progress
